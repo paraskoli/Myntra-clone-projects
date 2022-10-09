@@ -1,0 +1,26 @@
+.flex{
+    display: flex;
+  }
+
+  .items-center {
+  align-items: center;
+ }
+
+ .justify-center{
+  justify-content:center;
+ }
+.Uppercase{
+  text-transform: uppercase;
+}
+.space-around{
+  justify-content: space-between;
+}
+
+.semibold{
+  font-weight: semibold;
+}
+.mx-2{
+  margin-left:12px ;
+  margin-right:12px ;
+
+}
